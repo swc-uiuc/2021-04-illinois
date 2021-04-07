@@ -13,7 +13,7 @@ humandate: "April 12–15 2021"
 humantime: "4–6 p.m. CST"
 startdate: 2021-04-12
 enddate: 2021-04-15
-instructor: ["Yuanxi Fu", "Elizabeth Wickes"]
+instructor: ["Yuanxi Fu", "Elizabeth Wickes", "Lauren Phegley"]
 helper: [""]
 email: ["training@cse.illinois.edu"]
 collaborative_notes: "https://pad.carpentries.org/2021-04-illinois"
